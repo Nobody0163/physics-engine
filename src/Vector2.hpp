@@ -1,6 +1,6 @@
 #pragma once
 
-#include "basic_types.hpp"
+#include "BasicTypes.hpp"
 
 namespace Physics {
 	class Vector2 {
